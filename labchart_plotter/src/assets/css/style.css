@@ -1,0 +1,9 @@
+.app {
+    background-color: rgb(40, 42, 54);
+}
+
+.v-card {
+    background-color: rgb(68, 71, 90);
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
